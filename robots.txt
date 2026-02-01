@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rakeshkhanna808-lgtm.github.io/ramdev-tyres-website/sitemap.xml
